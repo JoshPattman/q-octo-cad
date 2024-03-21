@@ -1,5 +1,5 @@
 # Q-Octo CAD
-This Repo is the official home of the design of the Q-Octo robot! All CAD is using FreeCAD Link Branch 2024-01-23, but STL and DXF files are also provided
+This Repo is the official home of the design of the Q-Octo robot! All CAD is using `FreeCAD Link Branch 2024-01-23`, but STL and DXF files are also provided
 
 ![img](img/cover.png)
 
