@@ -14,7 +14,8 @@ This Repo is the official home of the design of the Q-Octo robot! All CAD is usi
 - 20x 61704 ball bearings (20x27x4mm)
 - 4x 5mm HTD belts 285mm length, 15mm wide
 - 4x 5mm HTD belts 225mm length, 15mm wide
-- 
+- 4x Parkside X20V drill battery
+
 ### Parts to Lasercut
 > All parts should be lasercut from a 6mm wide material (unless otherwise specified), plyboard should be strong enough. It is recommended not to use acrylic as it can be brittle.
 - 2x dxf/ChassisInnerPlate.dxf
