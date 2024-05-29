@@ -1,9 +1,16 @@
 # Q-Octo CAD
-This Repo is the official home of the design of the Q-Octo robot! All CAD is using `FreeCAD Link Branch 2024-01-23`, but STL and DXF files are also provided
+This Repo is the official home of the design of the Q-Octo robot! All CAD is using `FreeCAD Link Branch 2024-01-23`, but STL and DXF files are also provided.
 
 ![img](img/cover.png)
 
-## Parts List
+## About Q-Octo
+[Q-Octo](https://www.youtube.com/watch?v=2PIdxYJO_Ck) is an eight-quasi-wheeled robotics platform. It is designed to excel at forest traversal, easily being able to clamber over small logs and rocks due to its uniquely shaped wheels. However, due to each pair of neighboring wheels being 180 degrees out of phase, the robot can run smoothly as if it had circular wheels when on flat ground.
+
+Q-Octo uses a pair of [CyberGear MicroMotors](https://www.aliexpress.com/item/1005005997659365.html), which provide not only high torque and speed but also feedback such as current amp draw and position. To power the motors, 4 [Parkside X20V](https://parkside-diy.com/gb/battery-technology/x20v-team) drill batteries are used, providing 6-hour continuous runtime paired with robust and safe recharging.
+
+To build a Q-Octo, both a 3D printer and a laser cutter are required. It is sufficient to manufacture all 3D printed parts out of [Esun PLA+](https://www.esun3d.com/pla-pro-product/), providing excellent durability. All laser-cut parts (*except the front and rear battery cover) can be cut from 6 mm thick plyboard, which provides adequate rigidity and durability, assuming it is coated in outdoor paint.
+
+## Parts List _(Incomplete at current time)_
 
 ### Parts to Purchase
 > These are just the mechanical parts for building the chassis. All of the control electronics can be found in the electronic repo.
