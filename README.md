@@ -3,8 +3,7 @@
 # Q-Octo CAD
 This Repo is the official home of the design of the Q-Octo robot! All CAD is using `FreeCAD Link Branch 2024-01-23`, but STL and DXF files are also provided.
 
-<img src="img/side-view.png" width=64%/>
-<img src="img/chassis-ntp.png" width=34.5%/>
+<img src="img/side-view.png" width=64%/> <img src="img/chassis-ntp.png" width=34.5%/>
 
 ## About Q-Octo
 [Q-Octo](https://www.youtube.com/watch?v=2PIdxYJO_Ck) is an eight-quasi-wheeled robotics platform. It is designed to excel at forest traversal, easily being able to clamber over small logs and rocks due to its uniquely shaped wheels. However, due to each pair of neighboring wheels being 180 degrees out of phase, the robot can run smoothly as if it had circular wheels when on flat ground.
