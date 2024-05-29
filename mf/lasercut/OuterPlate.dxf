@@ -227,7 +227,7 @@ TABLE
   2
 LAYER
   5
-A1C
+A31
 330
 0
 100
@@ -237,9 +237,9 @@ AcDbSymbolTable
   0
 LAYER
   5
-A1D
+A32
 330
-A1C
+A31
 100
 AcDbSymbolTableRecord
 100
@@ -255,9 +255,9 @@ CONTINUOUS
   0
 LAYER
   5
-A1E
+A33
 330
-A1C
+A31
 100
 AcDbSymbolTableRecord
 100
@@ -273,15 +273,15 @@ CONTINUOUS
   0
 LAYER
   5
-A1F
+A34
 330
-A1C
+A31
 100
 AcDbSymbolTableRecord
 100
 AcDbLayerTableRecord
   2
-Binder002
+Binder
  70
     0
  62
@@ -707,21 +707,21 @@ A02
 100
 AcDbEntity
   8
-Binder002
+Binder
 100
 AcDbLine
  10
--35
+96
  20
--96
+137.5
  30
-42.5
+-131.15
  11
--75
+102
  21
--96
+137.5
  31
-42.5
+-131.15
   0
 LINE
   5
@@ -731,21 +731,21 @@ A02
 100
 AcDbEntity
   8
-Binder002
+Binder
 100
 AcDbLine
  10
--75
+102
  20
--6
+182.5
  30
-42.5
+-131.15
  11
--75
+102
  21
--96
+137.5
  31
-42.5
+-131.15
   0
 LINE
   5
@@ -755,21 +755,21 @@ A02
 100
 AcDbEntity
   8
-Binder002
+Binder
 100
 AcDbLine
  10
--35
+102
  20
--6
+182.5
  30
-42.5
+-131.15
  11
--75
+0
  21
--6
+182.5
  31
-42.5
+-131.15
   0
 LINE
   5
@@ -779,21 +779,21 @@ A02
 100
 AcDbEntity
   8
-Binder002
+Binder
 100
 AcDbLine
  10
--35
+0
  20
-9.4369e-15
+182.5
  30
-42.5
+-131.15
  11
--35
+0
  21
--6
+137.5
  31
-42.5
+-131.15
   0
 LINE
   5
@@ -803,21 +803,21 @@ A02
 100
 AcDbEntity
   8
-Binder002
+Binder
 100
 AcDbLine
  10
-35
+0
  20
-9.4369e-15
+137.5
  30
-42.5
+-131.15
  11
--35
+6
  21
-9.4369e-15
+137.5
  31
-42.5
+-131.15
   0
 LINE
   5
@@ -827,21 +827,21 @@ A02
 100
 AcDbEntity
   8
-Binder002
+Binder
 100
 AcDbLine
  10
-35
+6
  20
-9.4369e-15
+137.5
  30
-42.5
+-131.15
  11
-35
+6
  21
--6
+87.5
  31
-42.5
+-131.15
   0
 LINE
   5
@@ -851,21 +851,21 @@ A02
 100
 AcDbEntity
   8
-Binder002
+Binder
 100
 AcDbLine
  10
-75
+0
  20
--6
+87.5
  30
-42.5
+-131.15
  11
-35
+6
  21
--6
+87.5
  31
-42.5
+-131.15
   0
 LINE
   5
@@ -875,21 +875,21 @@ A02
 100
 AcDbEntity
   8
-Binder002
+Binder
 100
 AcDbLine
  10
-75
+0
  20
--96
+87.5
  30
-42.5
+-131.15
  11
-75
+0
  21
--6
+32.5
  31
-42.5
+-131.15
   0
 LINE
   5
@@ -899,21 +899,21 @@ A02
 100
 AcDbEntity
   8
-Binder002
+Binder
 100
 AcDbLine
  10
-35
+0
  20
--96
+32.5
  30
-42.5
+-131.15
  11
-75
+6
  21
--96
+32.5
  31
-42.5
+-131.15
   0
 LINE
   5
@@ -923,21 +923,21 @@ A02
 100
 AcDbEntity
   8
-Binder002
+Binder
 100
 AcDbLine
  10
-35
+6
  20
--96
+32.5
  30
-42.5
+-131.15
  11
-35
+6
  21
--102
+-32.5
  31
-42.5
+-131.15
   0
 LINE
   5
@@ -947,21 +947,21 @@ A02
 100
 AcDbEntity
   8
-Binder002
+Binder
 100
 AcDbLine
  10
-35
+0
  20
--102
+-32.5
  30
-42.5
+-131.15
  11
--35
+6
  21
--102
+-32.5
  31
-42.5
+-131.15
   0
 LINE
   5
@@ -971,23 +971,23 @@ A02
 100
 AcDbEntity
   8
-Binder002
+Binder
 100
 AcDbLine
  10
--35
+0
  20
--96
+-32.5
  30
-42.5
+-131.15
  11
--35
+0
  21
--102
+-87.5
  31
-42.5
+-131.15
   0
-ARC
+LINE
   5
 A14
 330
@@ -995,23 +995,21 @@ A02
 100
 AcDbEntity
   8
-Binder002
+Binder
 100
-AcDbCircle
+AcDbLine
  10
-5
- 20
--56
- 30
-42.5
- 40
-5
-100
-AcDbArc
- 50
--90
- 51
 0
+ 20
+-87.5
+ 30
+-131.15
+ 11
+6
+ 21
+-87.5
+ 31
+-131.15
   0
 LINE
   5
@@ -1021,23 +1019,23 @@ A02
 100
 AcDbEntity
   8
-Binder002
+Binder
 100
 AcDbLine
  10
-10
+6
  20
--46
+-87.5
  30
-42.5
+-131.15
  11
-10
+6
  21
--56
+-137.5
  31
-42.5
+-131.15
   0
-ARC
+LINE
   5
 A16
 330
@@ -1045,23 +1043,21 @@ A02
 100
 AcDbEntity
   8
-Binder002
+Binder
 100
-AcDbCircle
+AcDbLine
  10
-5
- 20
--46
- 30
-42.5
- 40
-5
-100
-AcDbArc
- 50
 0
- 51
-90
+ 20
+-137.5
+ 30
+-131.15
+ 11
+6
+ 21
+-137.5
+ 31
+-131.15
   0
 LINE
   5
@@ -1071,23 +1067,23 @@ A02
 100
 AcDbEntity
   8
-Binder002
+Binder
 100
 AcDbLine
  10
--5
+0
  20
--41
+-137.5
  30
-42.5
+-131.15
  11
-5
+0
  21
--41
+-182.5
  31
-42.5
+-131.15
   0
-ARC
+LINE
   5
 A18
 330
@@ -1095,23 +1091,21 @@ A02
 100
 AcDbEntity
   8
-Binder002
+Binder
 100
-AcDbCircle
+AcDbLine
  10
--5
+102
  20
--46
+-182.5
  30
-42.5
- 40
-5
-100
-AcDbArc
- 50
-90
- 51
-180
+-131.15
+ 11
+0
+ 21
+-182.5
+ 31
+-131.15
   0
 LINE
   5
@@ -1121,23 +1115,23 @@ A02
 100
 AcDbEntity
   8
-Binder002
+Binder
 100
 AcDbLine
  10
--10
+102
  20
--56
+-137.5
  30
-42.5
+-131.15
  11
--10
+102
  21
--46
+-182.5
  31
-42.5
+-131.15
   0
-ARC
+LINE
   5
 A1A
 330
@@ -1145,23 +1139,21 @@ A02
 100
 AcDbEntity
   8
-Binder002
+Binder
 100
-AcDbCircle
+AcDbLine
  10
--5
+96
  20
--56
+-137.5
  30
-42.5
- 40
-5
-100
-AcDbArc
- 50
-180
- 51
--90
+-131.15
+ 11
+102
+ 21
+-137.5
+ 31
+-131.15
   0
 LINE
   5
@@ -1171,21 +1163,447 @@ A02
 100
 AcDbEntity
   8
-Binder002
+Binder
 100
 AcDbLine
  10
-5
+96
  20
--61
+-87.5
  30
-42.5
+-131.15
  11
--5
+96
  21
--61
+-137.5
  31
-42.5
+-131.15
+  0
+LINE
+  5
+A1C
+330
+A02
+100
+AcDbEntity
+  8
+Binder
+100
+AcDbLine
+ 10
+96
+ 20
+-87.5
+ 30
+-131.15
+ 11
+102
+ 21
+-87.5
+ 31
+-131.15
+  0
+LINE
+  5
+A1D
+330
+A02
+100
+AcDbEntity
+  8
+Binder
+100
+AcDbLine
+ 10
+102
+ 20
+-32.5
+ 30
+-131.15
+ 11
+102
+ 21
+-87.5
+ 31
+-131.15
+  0
+LINE
+  5
+A1E
+330
+A02
+100
+AcDbEntity
+  8
+Binder
+100
+AcDbLine
+ 10
+96
+ 20
+-32.5
+ 30
+-131.15
+ 11
+102
+ 21
+-32.5
+ 31
+-131.15
+  0
+LINE
+  5
+A1F
+330
+A02
+100
+AcDbEntity
+  8
+Binder
+100
+AcDbLine
+ 10
+96
+ 20
+32.5
+ 30
+-131.15
+ 11
+96
+ 21
+-32.5
+ 31
+-131.15
+  0
+LINE
+  5
+A20
+330
+A02
+100
+AcDbEntity
+  8
+Binder
+100
+AcDbLine
+ 10
+96
+ 20
+32.5
+ 30
+-131.15
+ 11
+102
+ 21
+32.5
+ 31
+-131.15
+  0
+LINE
+  5
+A21
+330
+A02
+100
+AcDbEntity
+  8
+Binder
+100
+AcDbLine
+ 10
+102
+ 20
+87.5
+ 30
+-131.15
+ 11
+102
+ 21
+32.5
+ 31
+-131.15
+  0
+LINE
+  5
+A22
+330
+A02
+100
+AcDbEntity
+  8
+Binder
+100
+AcDbLine
+ 10
+96
+ 20
+87.5
+ 30
+-131.15
+ 11
+102
+ 21
+87.5
+ 31
+-131.15
+  0
+LINE
+  5
+A23
+330
+A02
+100
+AcDbEntity
+  8
+Binder
+100
+AcDbLine
+ 10
+96
+ 20
+137.5
+ 30
+-131.15
+ 11
+96
+ 21
+87.5
+ 31
+-131.15
+  0
+CIRCLE
+  5
+A24
+330
+A02
+100
+AcDbEntity
+  8
+Binder
+100
+AcDbCircle
+ 10
+23
+ 20
+-159.998
+ 40
+16
+  0
+CIRCLE
+  5
+A25
+330
+A02
+100
+AcDbEntity
+  8
+Binder
+100
+AcDbCircle
+ 10
+23
+ 20
+-62.498
+ 40
+16
+  0
+CIRCLE
+  5
+A26
+330
+A02
+100
+AcDbEntity
+  8
+Binder
+100
+AcDbCircle
+ 10
+23
+ 20
+62.498
+ 40
+16
+  0
+CIRCLE
+  5
+A27
+330
+A02
+100
+AcDbEntity
+  8
+Binder
+100
+AcDbCircle
+ 10
+23
+ 20
+159.998
+ 40
+16
+  0
+CIRCLE
+  5
+A28
+330
+A02
+100
+AcDbEntity
+  8
+Binder
+100
+AcDbCircle
+ 10
+48.5
+ 20
+0
+ 40
+16
+  0
+CIRCLE
+  5
+A29
+330
+A02
+100
+AcDbEntity
+  8
+Binder
+100
+AcDbCircle
+ 10
+83.5
+ 20
+132.5
+ 40
+2.1
+  0
+CIRCLE
+  5
+A2A
+330
+A02
+100
+AcDbEntity
+  8
+Binder
+100
+AcDbCircle
+ 10
+53.5
+ 20
+172.5
+ 40
+2.1
+  0
+CIRCLE
+  5
+A2B
+330
+A02
+100
+AcDbEntity
+  8
+Binder
+100
+AcDbCircle
+ 10
+53.5
+ 20
+132.5
+ 40
+2.1
+  0
+CIRCLE
+  5
+A2C
+330
+A02
+100
+AcDbEntity
+  8
+Binder
+100
+AcDbCircle
+ 10
+83.5
+ 20
+172.5
+ 40
+2.1
+  0
+CIRCLE
+  5
+A2D
+330
+A02
+100
+AcDbEntity
+  8
+Binder
+100
+AcDbCircle
+ 10
+83.5
+ 20
+-172.5
+ 40
+2.1
+  0
+CIRCLE
+  5
+A2E
+330
+A02
+100
+AcDbEntity
+  8
+Binder
+100
+AcDbCircle
+ 10
+83.5
+ 20
+-132.5
+ 40
+2.1
+  0
+CIRCLE
+  5
+A2F
+330
+A02
+100
+AcDbEntity
+  8
+Binder
+100
+AcDbCircle
+ 10
+53.5
+ 20
+-172.5
+ 40
+2.1
+  0
+CIRCLE
+  5
+A30
+330
+A02
+100
+AcDbEntity
+  8
+Binder
+100
+AcDbCircle
+ 10
+53.5
+ 20
+-132.5
+ 40
+2.1
   0
 ENDSEC
   0
