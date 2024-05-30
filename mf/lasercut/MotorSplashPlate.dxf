@@ -227,7 +227,7 @@ TABLE
   2
 LAYER
   5
-A1C
+A20
 330
 0
 100
@@ -237,9 +237,9 @@ AcDbSymbolTable
   0
 LAYER
   5
-A1D
+A21
 330
-A1C
+A20
 100
 AcDbSymbolTableRecord
 100
@@ -255,9 +255,9 @@ CONTINUOUS
   0
 LAYER
   5
-A1E
+A22
 330
-A1C
+A20
 100
 AcDbSymbolTableRecord
 100
@@ -273,9 +273,9 @@ CONTINUOUS
   0
 LAYER
   5
-A1F
+A23
 330
-A1C
+A20
 100
 AcDbSymbolTableRecord
 100
@@ -785,7 +785,7 @@ AcDbLine
  10
 -35
  20
-0
+9.4369e-15
  30
 42.5
  11
@@ -807,15 +807,15 @@ Binder002
 100
 AcDbLine
  10
-35
+-2.5
  20
-0
+9.4369e-15
  30
 42.5
  11
 -35
  21
-0
+9.4369e-15
  31
 42.5
   0
@@ -831,15 +831,15 @@ Binder002
 100
 AcDbLine
  10
-35
+-2.5
  20
-0
+-41
  30
 42.5
  11
-35
+-2.5
  21
--6
+9.4369e-15
  31
 42.5
   0
@@ -855,233 +855,13 @@ Binder002
 100
 AcDbLine
  10
-75
- 20
--6
- 30
-42.5
- 11
-35
- 21
--6
- 31
-42.5
-  0
-LINE
-  5
-A0F
-330
-A02
-100
-AcDbEntity
-  8
-Binder002
-100
-AcDbLine
- 10
-75
- 20
--96
- 30
-42.5
- 11
-75
- 21
--6
- 31
-42.5
-  0
-LINE
-  5
-A10
-330
-A02
-100
-AcDbEntity
-  8
-Binder002
-100
-AcDbLine
- 10
-35
- 20
--96
- 30
-42.5
- 11
-75
- 21
--96
- 31
-42.5
-  0
-LINE
-  5
-A11
-330
-A02
-100
-AcDbEntity
-  8
-Binder002
-100
-AcDbLine
- 10
-35
- 20
--96
- 30
-42.5
- 11
-35
- 21
--102
- 31
-42.5
-  0
-LINE
-  5
-A12
-330
-A02
-100
-AcDbEntity
-  8
-Binder002
-100
-AcDbLine
- 10
-35
- 20
--102
- 30
-42.5
- 11
--35
- 21
--102
- 31
-42.5
-  0
-LINE
-  5
-A13
-330
-A02
-100
-AcDbEntity
-  8
-Binder002
-100
-AcDbLine
- 10
--35
- 20
--96
- 30
-42.5
- 11
--35
- 21
--102
- 31
-42.5
-  0
-ARC
-  5
-A14
-330
-A02
-100
-AcDbEntity
-  8
-Binder002
-100
-AcDbCircle
- 10
-5
- 20
--56
- 30
-42.5
- 40
-5
-100
-AcDbArc
- 50
--90
- 51
-0
-  0
-LINE
-  5
-A15
-330
-A02
-100
-AcDbEntity
-  8
-Binder002
-100
-AcDbLine
- 10
-10
- 20
--46
- 30
-42.5
- 11
-10
- 21
--56
- 31
-42.5
-  0
-ARC
-  5
-A16
-330
-A02
-100
-AcDbEntity
-  8
-Binder002
-100
-AcDbCircle
- 10
-5
- 20
--46
- 30
-42.5
- 40
-5
-100
-AcDbArc
- 50
-0
- 51
-90
-  0
-LINE
-  5
-A17
-330
-A02
-100
-AcDbEntity
-  8
-Binder002
-100
-AcDbLine
- 10
 -5
  20
 -41
  30
 42.5
  11
-5
+-2.5
  21
 -41
  31
@@ -1089,7 +869,7 @@ AcDbLine
   0
 ARC
   5
-A18
+A0F
 330
 A02
 100
@@ -1115,7 +895,7 @@ AcDbArc
   0
 LINE
   5
-A19
+A10
 330
 A02
 100
@@ -1139,7 +919,7 @@ AcDbLine
   0
 ARC
   5
-A1A
+A11
 330
 A02
 100
@@ -1165,7 +945,7 @@ AcDbArc
   0
 LINE
   5
-A1B
+A12
 330
 A02
 100
@@ -1184,6 +964,322 @@ AcDbLine
 -5
  21
 -61
+ 31
+42.5
+  0
+ARC
+  5
+A13
+330
+A02
+100
+AcDbEntity
+  8
+Binder002
+100
+AcDbCircle
+ 10
+5
+ 20
+-56
+ 30
+42.5
+ 40
+5
+100
+AcDbArc
+ 50
+-90
+ 51
+0
+  0
+LINE
+  5
+A14
+330
+A02
+100
+AcDbEntity
+  8
+Binder002
+100
+AcDbLine
+ 10
+10
+ 20
+-46
+ 30
+42.5
+ 11
+10
+ 21
+-56
+ 31
+42.5
+  0
+ARC
+  5
+A15
+330
+A02
+100
+AcDbEntity
+  8
+Binder002
+100
+AcDbCircle
+ 10
+5
+ 20
+-46
+ 30
+42.5
+ 40
+5
+100
+AcDbArc
+ 50
+0
+ 51
+90
+  0
+LINE
+  5
+A16
+330
+A02
+100
+AcDbEntity
+  8
+Binder002
+100
+AcDbLine
+ 10
+2.5
+ 20
+-41
+ 30
+42.5
+ 11
+5
+ 21
+-41
+ 31
+42.5
+  0
+LINE
+  5
+A17
+330
+A02
+100
+AcDbEntity
+  8
+Binder002
+100
+AcDbLine
+ 10
+2.5
+ 20
+-41
+ 30
+42.5
+ 11
+2.5
+ 21
+9.4369e-15
+ 31
+42.5
+  0
+LINE
+  5
+A18
+330
+A02
+100
+AcDbEntity
+  8
+Binder002
+100
+AcDbLine
+ 10
+35
+ 20
+9.4369e-15
+ 30
+42.5
+ 11
+2.5
+ 21
+9.4369e-15
+ 31
+42.5
+  0
+LINE
+  5
+A19
+330
+A02
+100
+AcDbEntity
+  8
+Binder002
+100
+AcDbLine
+ 10
+35
+ 20
+9.4369e-15
+ 30
+42.5
+ 11
+35
+ 21
+-6
+ 31
+42.5
+  0
+LINE
+  5
+A1A
+330
+A02
+100
+AcDbEntity
+  8
+Binder002
+100
+AcDbLine
+ 10
+75
+ 20
+-6
+ 30
+42.5
+ 11
+35
+ 21
+-6
+ 31
+42.5
+  0
+LINE
+  5
+A1B
+330
+A02
+100
+AcDbEntity
+  8
+Binder002
+100
+AcDbLine
+ 10
+75
+ 20
+-96
+ 30
+42.5
+ 11
+75
+ 21
+-6
+ 31
+42.5
+  0
+LINE
+  5
+A1C
+330
+A02
+100
+AcDbEntity
+  8
+Binder002
+100
+AcDbLine
+ 10
+35
+ 20
+-96
+ 30
+42.5
+ 11
+75
+ 21
+-96
+ 31
+42.5
+  0
+LINE
+  5
+A1D
+330
+A02
+100
+AcDbEntity
+  8
+Binder002
+100
+AcDbLine
+ 10
+35
+ 20
+-96
+ 30
+42.5
+ 11
+35
+ 21
+-102
+ 31
+42.5
+  0
+LINE
+  5
+A1E
+330
+A02
+100
+AcDbEntity
+  8
+Binder002
+100
+AcDbLine
+ 10
+35
+ 20
+-102
+ 30
+42.5
+ 11
+-35
+ 21
+-102
+ 31
+42.5
+  0
+LINE
+  5
+A1F
+330
+A02
+100
+AcDbEntity
+  8
+Binder002
+100
+AcDbLine
+ 10
+-35
+ 20
+-96
+ 30
+42.5
+ 11
+-35
+ 21
+-102
  31
 42.5
   0
