@@ -27,6 +27,7 @@ To build a Q-Octo, both a 3D printer and a laser cutter are required. It is suff
 - Assorted M4 bolts, ideally low profile
 - M4 threaded inserts, diameter 5.6mm
 - 20x 61704 ball bearings (20x27x4mm)
+- 16x 6882 ball bearings (8x16x4mm)
 - 4x 5mm HTD belts 285mm length, 15mm wide
 - 4x 5mm HTD belts 225mm length, 15mm wide
 - 4x Parkside X20V drill battery

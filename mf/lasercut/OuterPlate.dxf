@@ -227,7 +227,7 @@ TABLE
   2
 LAYER
   5
-A31
+A35
 330
 0
 100
@@ -237,9 +237,9 @@ AcDbSymbolTable
   0
 LAYER
   5
-A32
+A36
 330
-A31
+A35
 100
 AcDbSymbolTableRecord
 100
@@ -255,9 +255,9 @@ CONTINUOUS
   0
 LAYER
   5
-A33
+A37
 330
-A31
+A35
 100
 AcDbSymbolTableRecord
 100
@@ -273,9 +273,9 @@ CONTINUOUS
   0
 LAYER
   5
-A34
+A38
 330
-A31
+A35
 100
 AcDbSymbolTableRecord
 100
@@ -1473,11 +1473,11 @@ Binder
 100
 AcDbCircle
  10
-83.5
+43.5
  20
-132.5
+-111.45
  40
-2.1
+9
   0
 CIRCLE
   5
@@ -1491,11 +1491,11 @@ Binder
 100
 AcDbCircle
  10
-53.5
+43.5
  20
-172.5
+111.45
  40
-2.1
+9
   0
 CIRCLE
   5
@@ -1509,11 +1509,11 @@ Binder
 100
 AcDbCircle
  10
-53.5
+54.5777
  20
-132.5
+38.7573
  40
-2.1
+9
   0
 CIRCLE
   5
@@ -1527,11 +1527,11 @@ Binder
 100
 AcDbCircle
  10
-83.5
+54.5777
  20
-172.5
+-38.7573
  40
-2.1
+9
   0
 CIRCLE
   5
@@ -1547,7 +1547,7 @@ AcDbCircle
  10
 83.5
  20
--172.5
+132.5
  40
 2.1
   0
@@ -1563,9 +1563,9 @@ Binder
 100
 AcDbCircle
  10
-83.5
+53.5
  20
--132.5
+172.5
  40
 2.1
   0
@@ -1583,13 +1583,85 @@ AcDbCircle
  10
 53.5
  20
--172.5
+132.5
  40
 2.1
   0
 CIRCLE
   5
 A30
+330
+A02
+100
+AcDbEntity
+  8
+Binder
+100
+AcDbCircle
+ 10
+83.5
+ 20
+172.5
+ 40
+2.1
+  0
+CIRCLE
+  5
+A31
+330
+A02
+100
+AcDbEntity
+  8
+Binder
+100
+AcDbCircle
+ 10
+83.5
+ 20
+-172.5
+ 40
+2.1
+  0
+CIRCLE
+  5
+A32
+330
+A02
+100
+AcDbEntity
+  8
+Binder
+100
+AcDbCircle
+ 10
+83.5
+ 20
+-132.5
+ 40
+2.1
+  0
+CIRCLE
+  5
+A33
+330
+A02
+100
+AcDbEntity
+  8
+Binder
+100
+AcDbCircle
+ 10
+53.5
+ 20
+-172.5
+ 40
+2.1
+  0
+CIRCLE
+  5
+A34
 330
 A02
 100

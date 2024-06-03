@@ -227,7 +227,7 @@ TABLE
   2
 LAYER
   5
-A42
+A46
 330
 0
 100
@@ -237,9 +237,9 @@ AcDbSymbolTable
   0
 LAYER
   5
-A43
+A47
 330
-A42
+A46
 100
 AcDbSymbolTableRecord
 100
@@ -255,9 +255,9 @@ CONTINUOUS
   0
 LAYER
   5
-A44
+A48
 330
-A42
+A46
 100
 AcDbSymbolTableRecord
 100
@@ -273,9 +273,9 @@ CONTINUOUS
   0
 LAYER
   5
-A45
+A49
 330
-A42
+A46
 100
 AcDbSymbolTableRecord
 100
@@ -1669,11 +1669,11 @@ Binder001
 100
 AcDbCircle
  10
-83.5
+43.5
  20
-132.5
+-111.45
  40
-2.1
+9
   0
 CIRCLE
   5
@@ -1687,11 +1687,11 @@ Binder001
 100
 AcDbCircle
  10
-83.5
+54.5777
  20
-172.5
+-38.7573
  40
-2.1
+9
   0
 CIRCLE
   5
@@ -1705,11 +1705,11 @@ Binder001
 100
 AcDbCircle
  10
-53.5
+54.5777
  20
-172.5
+38.7573
  40
-2.1
+9
   0
 CIRCLE
   5
@@ -1723,11 +1723,11 @@ Binder001
 100
 AcDbCircle
  10
-53.5
+43.5
  20
-132.5
+111.45
  40
-2.1
+9
   0
 CIRCLE
   5
@@ -1743,7 +1743,7 @@ AcDbCircle
  10
 83.5
  20
--132.5
+132.5
  40
 2.1
   0
@@ -1759,9 +1759,9 @@ Binder001
 100
 AcDbCircle
  10
-53.5
+83.5
  20
--132.5
+172.5
  40
 2.1
   0
@@ -1777,9 +1777,9 @@ Binder001
 100
 AcDbCircle
  10
-83.5
+53.5
  20
--172.5
+172.5
  40
 2.1
   0
@@ -1797,13 +1797,85 @@ AcDbCircle
  10
 53.5
  20
--172.5
+132.5
  40
 2.1
   0
 CIRCLE
   5
 A39
+330
+A02
+100
+AcDbEntity
+  8
+Binder001
+100
+AcDbCircle
+ 10
+83.5
+ 20
+-132.5
+ 40
+2.1
+  0
+CIRCLE
+  5
+A3A
+330
+A02
+100
+AcDbEntity
+  8
+Binder001
+100
+AcDbCircle
+ 10
+53.5
+ 20
+-132.5
+ 40
+2.1
+  0
+CIRCLE
+  5
+A3B
+330
+A02
+100
+AcDbEntity
+  8
+Binder001
+100
+AcDbCircle
+ 10
+83.5
+ 20
+-172.5
+ 40
+2.1
+  0
+CIRCLE
+  5
+A3C
+330
+A02
+100
+AcDbEntity
+  8
+Binder001
+100
+AcDbCircle
+ 10
+53.5
+ 20
+-172.5
+ 40
+2.1
+  0
+CIRCLE
+  5
+A3D
 330
 A02
 100
@@ -1821,7 +1893,7 @@ AcDbCircle
   0
 CIRCLE
   5
-A3A
+A3E
 330
 A02
 100
@@ -1839,7 +1911,7 @@ AcDbCircle
   0
 CIRCLE
   5
-A3B
+A3F
 330
 A02
 100
@@ -1857,7 +1929,7 @@ AcDbCircle
   0
 CIRCLE
   5
-A3C
+A40
 330
 A02
 100
@@ -1875,7 +1947,7 @@ AcDbCircle
   0
 CIRCLE
   5
-A3D
+A41
 330
 A02
 100
@@ -1893,7 +1965,7 @@ AcDbCircle
   0
 CIRCLE
   5
-A3E
+A42
 330
 A02
 100
@@ -1911,7 +1983,7 @@ AcDbCircle
   0
 CIRCLE
   5
-A3F
+A43
 330
 A02
 100
@@ -1929,7 +2001,7 @@ AcDbCircle
   0
 CIRCLE
   5
-A40
+A44
 330
 A02
 100
@@ -1947,7 +2019,7 @@ AcDbCircle
   0
 CIRCLE
   5
-A41
+A45
 330
 A02
 100
